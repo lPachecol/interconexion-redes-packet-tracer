@@ -1,0 +1,165 @@
+﻿Sede A,Equipo A,Interfaz A,IPv4 A (routers),Sede B,Equipo B,Interfaz B,IPv4 B (routers),Medio,Variante,Indicador funcional en el archivo
+São Paulo,Switch São Paulo,FastEthernet0/2,,São Paulo,PC 1 ADMIN São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch São Paulo,FastEthernet0/3,,São Paulo,PC 2 ADMIN São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch São Paulo,FastEthernet0/4,,São Paulo,PC 3 ADMIN São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch Prineville,FastEthernet0/2,,Prineville,PC 1 ADMIN Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch Prineville,FastEthernet0/3,,Prineville,PC 2 ADMIN Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch Prineville,FastEthernet0/4,,Prineville,PC 3 ADMIN Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch Luleå,FastEthernet0/2,,Luleå,PC 1 ADMIN Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch Luleå,FastEthernet0/3,,Luleå,PC 2 ADMIN Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch Luleå,FastEthernet0/4,,Luleå,PC 3 ADMIN Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,PC 1 ADMIN Dublín,FastEthernet0,,Dublín,Switch Dublín,FastEthernet0/2,,Cobre,eStraightThrough,true
+Dublín,PC 2 ADMIN Dublín,FastEthernet0,,Dublín,Switch Dublín,FastEthernet0/3,,Cobre,eStraightThrough,true
+Dublín,PC 3 ADMIN Dublín,FastEthernet0,,Dublín,Switch Dublín,FastEthernet0/4,,Cobre,eStraightThrough,true
+Singapur,PC 1 ADMIN Singapur,FastEthernet0,,Singapur,Switch Singapur,FastEthernet0/2,,Cobre,eStraightThrough,true
+Singapur,PC 2 ADMIN Singapur,FastEthernet0,,Singapur,Switch Singapur,FastEthernet0/3,,Cobre,eStraightThrough,true
+Singapur,PC 3 ADMIN Singapur,FastEthernet0,,Singapur,Switch Singapur,FastEthernet0/4,,Cobre,eStraightThrough,true
+Menlo Park,Switch Menlo Park,FastEthernet0/2,,Menlo Park,PC 1 ADMIN Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,Switch Menlo Park,FastEthernet0/3,,Menlo Park,PC 2 ADMIN Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch DESARROLLO Prineville,FastEthernet0/1,,Prineville,PC 1 DESARROLLO Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch DESARROLLO Prineville,FastEthernet0/2,,Prineville,PC 2 DESARROLLO Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch SOPORTE Prineville,FastEthernet0/1,,Prineville,PC 1 SOPORTE Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch SOPORTE Prineville,FastEthernet0/2,,Prineville,PC 2 SOPORTE Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch SOPORTE Prineville,FastEthernet0/3,,Prineville,PC 3 DESARROLLO Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch SEGURIDAD Prineville,FastEthernet0/1,,Prineville,PC 1 SEGURIDAD Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch SEGURIDAD Prineville,FastEthernet0/2,,Prineville,PC 2 SEGURIDAD Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch SEGURIDAD Prineville,FastEthernet0/3,,Prineville,PC 3 SEGURIDAD Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch ING Prineville,FastEthernet0/1,,Prineville,PC 1 ING Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch ING Prineville,FastEthernet0/2,,Prineville,PC 2 ING Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+Prineville,Switch ING Prineville,FastEthernet0/3,,Prineville,PC 3 ING Prineville,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch ING São Paulo,FastEthernet0/1,,São Paulo,PC 1 ING São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch ING São Paulo,FastEthernet0/2,,São Paulo,PC 2 ING São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch ING São Paulo,FastEthernet0/3,,São Paulo,PC 3 ING São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch SEGURIDAD São Paulo,FastEthernet0/1,,São Paulo,PC 1 SEGURIDAD São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch SEGURIDAD São Paulo,FastEthernet0/2,,São Paulo,PC 2 SEGURIDAD São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch SEGURIDAD São Paulo,FastEthernet0/3,,São Paulo,PC 3 SEGURIDAD São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch DESARROLLO São Paulo,FastEthernet0/1,,São Paulo,PC 1 DESARROLLO São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch DESARROLLO São Paulo,FastEthernet0/2,,São Paulo,PC 2 DESARROLLO São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch SOPORTE São Paulo,FastEthernet0/1,,São Paulo,PC 1 SOPORTE São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch SOPORTE São Paulo,FastEthernet0/2,,São Paulo,PC 2 SOPORTE São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch SOPORTE São Paulo,FastEthernet0/3,,São Paulo,PC 3 DESARROLLO São Paulo,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch ING Luleå,FastEthernet0/1,,Luleå,PC 1 ING Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch ING Luleå,FastEthernet0/2,,Luleå,PC 2 ING Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch ING Luleå,FastEthernet0/3,,Luleå,PC 3 ING Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch SOPORTE Luleå,FastEthernet0/1,,Luleå,PC 1 SOPORTE Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch SOPORTE Luleå,FastEthernet0/2,,Luleå,PC 2 SOPORTE Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch SOPORTE Luleå,FastEthernet0/3,,Luleå,PC 3 DESARROLLO Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch SEGURIDAD Luleå,FastEthernet0/1,,Luleå,PC 1 SEGURIDAD Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,PC 2 SEGURIDAD Luleå,FastEthernet0,,Luleå,Switch SEGURIDAD Luleå,FastEthernet0/2,,Cobre,eStraightThrough,true
+Luleå,Switch SEGURIDAD Luleå,FastEthernet0/3,,Luleå,PC 3 SEGURIDAD Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,Switch DESARROLLO Luleå,FastEthernet0/1,,Luleå,PC 1 DESARROLLO Luleå,FastEthernet0,,Cobre,eStraightThrough,true
+Luleå,PC 2 DESARROLLO Luleå,FastEthernet0,,Luleå,Switch DESARROLLO Luleå,FastEthernet0/2,,Cobre,eStraightThrough,true
+Dublín,Switch ING Dublín,FastEthernet0/1,,Dublín,PC 1 ING Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch ING Dublín,FastEthernet0/2,,Dublín,PC 2 ING Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch ING Dublín,FastEthernet0/3,,Dublín,PC 3 ING Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch SEGURIDAD Dublín,FastEthernet0/1,,Dublín,PC 1 SEGURIDAD Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch SEGURIDAD Dublín,FastEthernet0/2,,Dublín,PC 2 SEGURIDAD Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch SEGURIDAD Dublín,FastEthernet0/3,,Dublín,PC 3 SEGURIDAD Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch DESARROLLO Dublín,FastEthernet0/1,,Dublín,PC 1 DESARROLLO Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch DESARROLLO Dublín,FastEthernet0/2,,Dublín,PC 2 DESARROLLO Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch SOPORTE Dublín,FastEthernet0/1,,Dublín,PC 1 SOPORTE Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch SOPORTE Dublín,FastEthernet0/2,,Dublín,PC 2 SOPORTE Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Dublín,Switch SOPORTE Dublín,FastEthernet0/3,,Dublín,PC 3 DESARROLLO Dublín,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,Switch DESARROLLO Menlo Park,FastEthernet0/1,,Menlo Park,PC 1 DESARROLLO Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,PC 2 DESARROLLO Menlo Park,FastEthernet0,,Menlo Park,Switch DESARROLLO Menlo Park,FastEthernet0/2,,Cobre,eStraightThrough,true
+Menlo Park,Switch SOPORTE Menlo Park,FastEthernet0/1,,Menlo Park,PC 1 SOPORTE Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,PC 2 SOPORTE Menlo Park,FastEthernet0,,Menlo Park,Switch SOPORTE Menlo Park,FastEthernet0/2,,Cobre,eStraightThrough,true
+Menlo Park,PC 3 DESARROLLO Menlo Park,FastEthernet0,,Menlo Park,Switch SOPORTE Menlo Park,FastEthernet0/3,,Cobre,eStraightThrough,true
+Menlo Park,Switch ING Menlo Park,FastEthernet0/1,,Menlo Park,PC 1 ING Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,PC 2 ING Menlo Park,FastEthernet0,,Menlo Park,Switch ING Menlo Park,FastEthernet0/2,,Cobre,eStraightThrough,true
+Menlo Park,PC 3 ING Menlo Park,FastEthernet0,,Menlo Park,Switch ING Menlo Park,FastEthernet0/3,,Cobre,eStraightThrough,true
+Menlo Park,Switch SEGURIDAD Menlo Park,FastEthernet0/1,,Menlo Park,PC 1 SEGURIDAD Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,Switch SEGURIDAD Menlo Park,FastEthernet0/2,,Menlo Park,PC 2 SEGURIDAD Menlo Park,FastEthernet0,,Cobre,eStraightThrough,true
+Menlo Park,PC 3 SEGURIDAD Menlo Park,FastEthernet0,,Menlo Park,Switch SEGURIDAD Menlo Park,FastEthernet0/3,,Cobre,eStraightThrough,true
+Singapur,Switch ING Singapur,FastEthernet0/1,,Singapur,PC 1 ING Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch ING Singapur,FastEthernet0/2,,Singapur,PC 2 ING Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,PC 3 ING Singapur,FastEthernet0,,Singapur,Switch ING Singapur,FastEthernet0/3,,Cobre,eStraightThrough,true
+Singapur,Switch SEGURIDAD Singapur,FastEthernet0/1,,Singapur,PC 1 SEGURIDAD Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch SEGURIDAD Singapur,FastEthernet0/2,,Singapur,PC 2 SEGURIDAD Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch SEGURIDAD Singapur,FastEthernet0/3,,Singapur,PC 3 SEGURIDAD Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch DESARROLLO Singapur,FastEthernet0/1,,Singapur,PC 1 DESARROLLO Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch DESARROLLO Singapur,FastEthernet0/2,,Singapur,PC 2 DESARROLLO Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch SOPORTE Singapur,FastEthernet0/1,,Singapur,PC 1 SOPORTE Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch SOPORTE Singapur,FastEthernet0/2,,Singapur,PC 2 SOPORTE Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+Singapur,Switch SOPORTE Singapur,FastEthernet0/3,,Singapur,PC 3 DESARROLLO Singapur,FastEthernet0,,Cobre,eStraightThrough,true
+São Paulo,Switch São Paulo,FastEthernet0/5,,São Paulo,Switch SEGURIDAD São Paulo,FastEthernet0/4,,Cobre,eCrossOver,true
+São Paulo,Switch São Paulo,FastEthernet0/6,,São Paulo,Switch SEGURIDAD São Paulo,FastEthernet0/5,,Cobre,eCrossOver,true
+São Paulo,Switch São Paulo,FastEthernet0/7,,São Paulo,Switch SEGURIDAD São Paulo,FastEthernet0/6,,Cobre,eCrossOver,true
+Prineville,Switch Prineville,FastEthernet0/5,,Prineville,Switch SEGURIDAD Prineville,FastEthernet0/4,,Cobre,eCrossOver,true
+Prineville,Switch Prineville,FastEthernet0/6,,Prineville,Switch SEGURIDAD Prineville,FastEthernet0/5,,Cobre,eCrossOver,true
+Prineville,Switch Prineville,FastEthernet0/7,,Prineville,Switch SEGURIDAD Prineville,FastEthernet0/6,,Cobre,eCrossOver,true
+Luleå,Switch Luleå,FastEthernet0/5,,Luleå,Switch SEGURIDAD Luleå,FastEthernet0/4,,Cobre,eCrossOver,true
+Luleå,Switch Luleå,FastEthernet0/6,,Luleå,Switch SEGURIDAD Luleå,FastEthernet0/5,,Cobre,eCrossOver,true
+Luleå,Switch Luleå,FastEthernet0/7,,Luleå,Switch SEGURIDAD Luleå,FastEthernet0/6,,Cobre,eCrossOver,true
+Dublín,Switch Dublín,FastEthernet0/5,,Dublín,Switch SEGURIDAD Dublín,FastEthernet0/4,,Cobre,eCrossOver,true
+Dublín,Switch Dublín,FastEthernet0/6,,Dublín,Switch SEGURIDAD Dublín,FastEthernet0/5,,Cobre,eCrossOver,true
+Dublín,Switch Dublín,FastEthernet0/7,,Dublín,Switch SEGURIDAD Dublín,FastEthernet0/6,,Cobre,eCrossOver,true
+Menlo Park,Switch Menlo Park,FastEthernet0/5,,Menlo Park,Switch SEGURIDAD Menlo Park,FastEthernet0/4,,Cobre,eCrossOver,true
+Menlo Park,Switch Menlo Park,FastEthernet0/6,,Menlo Park,Switch SEGURIDAD Menlo Park,FastEthernet0/5,,Cobre,eCrossOver,true
+Menlo Park,Switch Menlo Park,FastEthernet0/7,,Menlo Park,Switch SEGURIDAD Menlo Park,FastEthernet0/6,,Cobre,eCrossOver,true
+Menlo Park,Switch Menlo Park,FastEthernet0/8,,Menlo Park,Switch ING Menlo Park,FastEthernet0/4,,Cobre,eCrossOver,true
+Menlo Park,Switch Menlo Park,FastEthernet0/9,,Menlo Park,Switch DESARROLLO Menlo Park,FastEthernet0/4,,Cobre,eCrossOver,true
+Menlo Park,Switch Menlo Park,FastEthernet0/10,,Menlo Park,Switch SOPORTE Menlo Park,FastEthernet0/4,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/5,,Singapur,Switch SEGURIDAD Singapur,FastEthernet0/4,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/6,,Singapur,Switch SEGURIDAD Singapur,FastEthernet0/5,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/7,,Singapur,Switch SEGURIDAD Singapur,FastEthernet0/6,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/8,,Singapur,Switch SOPORTE Singapur,FastEthernet0/4,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/9,,Singapur,Switch DESARROLLO Singapur,FastEthernet0/4,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/10,,Singapur,Switch ING Singapur,FastEthernet0/4,,Cobre,eCrossOver,true
+Dublín,Switch Dublín,FastEthernet0/8,,Dublín,Switch ING Dublín,FastEthernet0/4,,Cobre,eCrossOver,true
+Dublín,Switch Dublín,FastEthernet0/9,,Dublín,Switch DESARROLLO Dublín,FastEthernet0/4,,Cobre,eCrossOver,true
+Dublín,Switch Dublín,FastEthernet0/10,,Dublín,Switch SOPORTE Dublín,FastEthernet0/4,,Cobre,eCrossOver,true
+Luleå,Switch Luleå,FastEthernet0/8,,Luleå,Switch ING Luleå,FastEthernet0/4,,Cobre,eCrossOver,true
+Luleå,Switch Luleå,FastEthernet0/9,,Luleå,Switch SOPORTE Luleå,FastEthernet0/4,,Cobre,eCrossOver,true
+Luleå,Switch Luleå,FastEthernet0/10,,Luleå,Switch DESARROLLO Luleå,FastEthernet0/4,,Cobre,eCrossOver,true
+Prineville,Switch Prineville,FastEthernet0/8,,Prineville,Switch ING Prineville,FastEthernet0/4,,Cobre,eCrossOver,true
+Prineville,Switch Prineville,FastEthernet0/9,,Prineville,Switch SOPORTE Prineville,FastEthernet0/4,,Cobre,eCrossOver,true
+Prineville,Switch Prineville,FastEthernet0/10,,Prineville,Switch DESARROLLO Prineville,FastEthernet0/4,,Cobre,eCrossOver,true
+São Paulo,Switch São Paulo,FastEthernet0/8,,São Paulo,Switch ING São Paulo,FastEthernet0/4,,Cobre,eCrossOver,true
+São Paulo,Switch São Paulo,FastEthernet0/9,,São Paulo,Switch DESARROLLO São Paulo,FastEthernet0/4,,Cobre,eCrossOver,true
+São Paulo,Switch São Paulo,FastEthernet0/10,,São Paulo,Switch SOPORTE São Paulo,FastEthernet0/4,,Cobre,eCrossOver,true
+São Paulo,Switch DESARROLLO São Paulo,FastEthernet0/5,,São Paulo,Switch SOPORTE São Paulo,FastEthernet0/5,,Cobre,eCrossOver,true
+Prineville,Switch SOPORTE Prineville,FastEthernet0/5,,Prineville,Switch DESARROLLO Prineville,FastEthernet0/5,,Cobre,eCrossOver,true
+Luleå,Switch DESARROLLO Luleå,FastEthernet0/5,,Luleå,Switch SOPORTE Luleå,FastEthernet0/5,,Cobre,eCrossOver,true
+Dublín,Switch DESARROLLO Dublín,FastEthernet0/5,,Dublín,Switch SOPORTE Dublín,FastEthernet0/5,,Cobre,eCrossOver,true
+Menlo Park,Switch DESARROLLO Menlo Park,FastEthernet0/5,,Menlo Park,Switch SOPORTE Menlo Park,FastEthernet0/5,,Cobre,eCrossOver,true
+Singapur,Switch SOPORTE Singapur,FastEthernet0/5,,Singapur,Switch DESARROLLO Singapur,FastEthernet0/5,,Cobre,eCrossOver,true
+Singapur,Switch Singapur,FastEthernet0/11,,Singapur,Router StandBy Singapur,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Dublín,Switch Dublín,FastEthernet0/12,,Dublín,Router StandBy Dublín,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Prineville,Switch Prineville,FastEthernet0/11,,Prineville,Router StandBy Prineville,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Menlo Park,Router StandBy Menlo Park,GigabitEthernet0/0,,Menlo Park,Switch Menlo Park,FastEthernet0/11,,Cobre,eStraightThrough,true
+Menlo Park,Router Activo Menlo Park,GigabitEthernet0/0,,Menlo Park,Switch Menlo Park,FastEthernet0/12,,Cobre,eStraightThrough,true
+São Paulo,Switch São Paulo,FastEthernet0/12,,São Paulo,Router StandBy São Paulo,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Prineville,Router StandBy Prineville,Serial0/3/1,3.0.13.210/30,Luleå,Router StandBy Luleå,Serial0/3/1,3.0.13.209/30,Serial,,true
+Dublín,Router StandBy Dublín,Serial0/0/1,3.0.13.201/30,Singapur,Router StandBy Singapur,Serial0/0/1,3.0.13.202/30,Serial,,true
+Dublín,Router Activo Dublín,Serial0/1/1,3.0.13.198/30,Luleå,Router Activo Luleå,Serial0/1/1,3.0.13.197/30,Serial,,true
+Prineville,Router Activo Prineville,Serial0/2/1,3.0.13.214/30,Luleå,Router Activo Luleå,Serial0/2/1,3.0.13.213/30,Serial,,true
+Dublín,Router Activo Dublín,Serial0/3/0,3.0.13.205/30,Singapur,Router Activo Singapur,Serial0/3/0,3.0.13.206/30,Serial,,true
+Prineville,Router StandBy Prineville,Serial0/2/0,3.0.13.218/30,Singapur,Router StandBy Singapur,Serial0/2/0,3.0.13.217/30,Serial,,true
+São Paulo,Router StandBy São Paulo,Serial0/3/1,3.0.13.222/30,Singapur,Router StandBy Singapur,Serial0/3/1,3.0.13.221/30,Serial,,true
+Singapur,Router StandBy Singapur,Serial0/2/1,3.0.13.225/30,Menlo Park,Router Activo Menlo Park,Serial0/2/1,3.0.13.226/30,Serial,,true
+Singapur,Router Activo Singapur,Serial0/1/1,3.0.13.229/30,Menlo Park,Router StandBy Menlo Park,Serial0/1/1,3.0.13.230/30,Serial,,true
+São Paulo,Router Activo São Paulo,Serial0/3/1,3.0.13.234/30,Singapur,Router Activo Singapur,Serial0/3/1,3.0.13.233/30,Serial,,true
+Menlo Park,Router StandBy Menlo Park,Serial0/3/0,3.0.13.130/30,Luleå,Router StandBy Luleå,Serial0/3/0,3.0.13.129/30,Serial,,true
+Luleå,Router StandBy Luleå,Serial0/2/0,3.0.13.141/30,Menlo Park,Router Activo Menlo Park,Serial0/2/0,3.0.13.142/30,Serial,,true
+Luleå,Router Activo Luleå,Serial0/0/0,3.0.13.133/30,Menlo Park,Router StandBy Menlo Park,Serial0/0/0,3.0.13.134/30,Serial,,true
+Menlo Park,Router Activo Menlo Park,Serial0/0/1,3.0.13.138/30,Luleå,Router Activo Luleå,Serial0/0/1,3.0.13.137/30,Serial,,true
+Dublín,Router Activo Dublín,Serial0/1/0,3.0.13.145/30,Menlo Park,Router StandBy Menlo Park,Serial0/1/0,3.0.13.146/30,Serial,,true
+Menlo Park,Router StandBy Menlo Park,Serial0/3/1,3.0.13.149/30,Dublín,Router StandBy Dublín,Serial0/3/1,3.0.13.150/30,Serial,,true
+Menlo Park,Router Activo Menlo Park,Serial0/0/0,3.0.13.154/30,Dublín,Router Activo Dublín,Serial0/0/0,3.0.13.153/30,Serial,,true
+Dublín,Router StandBy Dublín,Serial0/1/0,3.0.13.157/30,Menlo Park,Router Activo Menlo Park,Serial0/1/0,3.0.13.158/30,Serial,,true
+Prineville,Router StandBy Prineville,Serial0/2/1,3.0.13.161/30,Menlo Park,Router StandBy Menlo Park,Serial0/2/1,3.0.13.162/30,Serial,,true
+Prineville,Router Activo Prineville,Serial0/3/1,3.0.13.165/30,Menlo Park,Router Activo Menlo Park,Serial0/3/1,3.0.13.166/30,Serial,,true
+Prineville,Router StandBy Prineville,Serial0/3/0,3.0.13.173/30,São Paulo,Router StandBy São Paulo,Serial0/3/0,3.0.13.174/30,Serial,,true
+Menlo Park,Router Activo Menlo Park,Serial0/3/0,3.0.13.178/30,São Paulo,Router Activo São Paulo,Serial0/3/0,3.0.13.177/30,Serial,,true
+São Paulo,Router Activo São Paulo,Serial0/0/1,3.0.13.181/30,Menlo Park,Router StandBy Menlo Park,Serial0/0/1,3.0.13.182/30,Serial,,true
+Menlo Park,Router StandBy Menlo Park,Serial0/2/0,3.0.13.186/30,São Paulo,Router StandBy São Paulo,Serial0/2/0,3.0.13.185/30,Serial,,true
+São Paulo,Router StandBy São Paulo,Serial0/1/1,3.0.13.190/30,Menlo Park,Router Activo Menlo Park,Serial0/1/1,3.0.13.189/30,Serial,,true
+Luleå,Switch Luleå,FastEthernet0/11,,Luleå,Router StandBy Luleå,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Luleå,Switch Luleå,FastEthernet0/12,,Luleå,Router Activo Luleå,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Prineville,Router Activo Prineville,Serial0/2/0,3.0.13.170/30,São Paulo,Router Activo São Paulo,Serial0/2/0,3.0.13.169/30,Serial,,true
+Prineville,Router Activo Prineville,GigabitEthernet0/0,,Prineville,Switch Prineville,FastEthernet0/1,,Cobre,eStraightThrough,true
+Dublín,Router StandBy Dublín,Serial0/0/0,3.0.13.194/30,Luleå,Router StandBy Luleå,Serial0/0/0,3.0.13.193/30,Serial,,true
+Singapur,Switch Singapur,FastEthernet0/12,,Singapur,Router Activo Singapur,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+São Paulo,Switch São Paulo,FastEthernet0/11,,São Paulo,Router Activo São Paulo,GigabitEthernet0/0,,Cobre,eStraightThrough,true
+Dublín,Router Activo Dublín,GigabitEthernet0/0,,Dublín,Switch Dublín,FastEthernet0/1,,Cobre,eStraightThrough,true
