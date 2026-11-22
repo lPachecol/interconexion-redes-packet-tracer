@@ -14,9 +14,11 @@ Proyecto académico de interconexión para seis sedes de una empresa multinacion
 
 [![Topología lógica de las seis sedes con redes locales por VLAN y enlaces WAN seriales](imagenes/logica-exportacion-archivo.png)](imagenes/logica-exportacion-archivo.png)
 
-Abre la imagen para ampliar o explora directamente una sede.
+La topología está exportada desde el archivo de simulación del repositorio. Abre la imagen para ampliar o explora directamente una sede.
 
 [Menlo Park](imagenes/logica-menlo-park.png) · [Dublín](imagenes/logica-dublin.png) · [Singapur](imagenes/logica-singapur.png) · [São Paulo](imagenes/logica-sao-paulo.png) · [Prineville](imagenes/logica-prineville.png) · [Luleå](imagenes/logica-lulea.png)
+
+El [detalle de Dublín](imagenes/logica-dublin-gateways.png) muestra los dos enlaces troncales que conectan los routers HSRP con el switch de la sede.
 
 La [lámina WAN](imagenes/wan-interfaces.svg) muestra los 27 circuitos seriales con sus interfaces e IP. El [inventario de enlaces](docs/enlaces.csv) incluye también el cableado de las LAN.
 
