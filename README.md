@@ -47,4 +47,7 @@ El [informe de diseño](docs/informe.md) explica la distribución de hosts, las 
 
 Descarga [ProyectoVFinal.pkt](ProyectoVFinal.pkt) y ábrelo con **Cisco Packet Tracer 8.2.2**. En **Logical** puedes explorar equipos, enlaces y VLAN. En **Physical** puedes navegar por las seis ciudades y entrar a sus edificios y armarios.
 
-**Grupo 3** · Proyecto académico en equipo · [Pablo Pacheco](https://github.com/lPachecol)
+**Grupo 3** · Proyecto académico en equipo
+· [Pablo Pacheco](https://github.com/lPachecol)
+· [Presly Morales](https://github.com/preslymorales)
+· [Juan Murillo](https://github.com/ambrosiafr)
